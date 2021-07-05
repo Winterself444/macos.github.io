@@ -1,0 +1,322 @@
+@media (max-width: 1106px)  {.gg{
+
+  padding-top: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+}
+@media (max-width: 1106px)  {.control{
+
+  display: flex;
+  flex-direction: row;
+  align-items: end;
+  justify-content: end;
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 30px;
+
+
+}
+}
+@media (max-width: 1106px)  {.left{
+
+  padding-top: 80px;
+  padding-bottom:  80px;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+
+
+
+}
+}
+
+@media (max-width: 986px)  {.wrapper{
+
+  display: grid;
+  grid-template-rows:repeat(3, 1fr);
+  grid-template-columns:1fr;
+
+
+
+
+
+}
+}
+@media (max-width: 986px)  {.center11{
+
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+
+
+
+
+
+}
+}
+@media (max-width: 986px)  {.text3{
+
+  color: #3e8cc4;
+  font-size: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+
+}
+}
+@media (max-width: 986px)  {.wrapper2{
+
+  display: grid;
+  grid-template-rows: repeat(2, 5fr);
+  grid-template-columns: 5fr;
+  grid-column-gap: 450px;
+  grid-row-gap: 1em;
+  grid-auto-rows: 200px;
+
+
+
+
+}
+}
+@media (max-width: 986px)  {.wrapper2 div{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align:center;
+  flex-direction: column;
+  margin-bottom: 20px;
+  font-size: 12px;
+
+
+
+
+
+}
+}
+@media (max-width: 347px)  {.wrapper2 div{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align:center;
+  flex-direction: column;
+  margin-bottom: 30px;
+  font-size:7px;
+
+
+
+
+
+}
+}
+@media (max-width: 347px)  {.wrapper2 h3{
+
+  color: darkgray;
+  font-size:10px;
+  font-family: serif;
+padding-top: 10px;
+
+
+
+
+}
+}
+@media (max-width: 986px)  {.wrapper4 {
+
+
+  grid-template-rows: 0fr 2fr 2fr;
+  grid-template-columns: 2fr;
+
+  grid-row-gap: 1em;
+  padding: 0px;
+
+
+
+}
+}
+@media (max-width: 986px)  {.wrapper4 img {
+
+width: 100%;
+
+
+
+
+}
+}
+@media (max-width: 571px)  {.wrapper4 a{
+
+
+  margin-top:  60px;
+  margin-left:   200px;
+
+
+
+}
+}
+@media (max-width: 370px)  {.wrapper4 a{
+
+
+  margin-top:  60px;
+  margin-left:   100px;
+
+
+
+}
+}
+@media (max-width: 250px)  {.wrapper4 a{
+
+
+  margin-top:  60px;
+  margin-left:   0px;
+
+
+
+}
+}
+@media (max-width: 986px)  {.wrapper66{
+
+  display: grid;
+  grid-template-columns: 0.1fr 2fr 0.1fr 2fr 0.1fr 2fr;
+  grid-column-gap: 50px;
+  grid-row-gap: 1em;
+  grid-auto-rows: 20px;
+  margin-bottom:  50px;
+  margin-top:  20px;
+  font-size: 10px;
+
+
+
+
+
+}
+}
+@media (max-width: 559px)  {.wrapper66{
+
+  display: grid;
+  grid-template-columns: 0.1fr 2fr 0.1fr 2fr 0.1fr 2fr;
+  grid-column-gap: 25px;
+  grid-row-gap: 1em;
+  grid-auto-rows: 10px;
+  margin-bottom:  50px;
+  margin-top:  20px;
+  font-size: 6px;
+
+
+
+
+
+}
+}
+@media (max-width: 986px)  {.wrapper66 h3{
+
+  color: darkgray;
+  font-size: 15px;
+
+padding-top: 2px;
+
+
+
+
+
+}
+}
+@media (max-width: 986px)  {.wrapper22 h3{
+
+
+  font-size: 13px;
+
+
+
+
+
+}
+}
+@media (max-width: 582px)  {.wrapper22 h3{
+
+
+
+
+  font-size: 7px;
+
+
+
+}
+}
+
+
+
+@media (max-width: 629px)  {a.ggjj {
+
+  text-decoration: none;
+  outline: none;
+  display: flex;
+  width: 70px;
+  height: 23px;
+  line-height: 45px;
+  border-radius: 45px;
+  margin: 5px 7px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 6px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: #524f4e;
+  background: white;
+  box-shadow: 0 8px 15px rgba(0,0,0,.1);
+  transition: .3s;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+
+
+}
+}
+@media (max-width: 986px)  {.wrapper223 {
+
+
+  display: grid;
+  grid-template-columns: 5fr;
+    grid-template-rows: repeat(4, 5fr);
+  grid-column-gap: 50px;
+  grid-row-gap: 1em;
+  grid-auto-rows: 70px;
+  padding-bottom: 100px;
+ padding-top: 70px;
+ align-items: center;
+
+
+}
+}
+@media (max-width: 509px)  {.glll img {
+
+
+  width: 50%;
+
+
+}
+}
+@media (max-width: 986px)  {.wrapper1 {
+
+
+  display: grid;
+  grid-template-columns: 5fr;
+  grid-template-rows: repeat(3, 5fr);
+grid-auto-rows: 200px;
+  grid-row-gap: 0em;
+
+
+}
+}
